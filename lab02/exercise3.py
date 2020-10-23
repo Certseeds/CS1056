@@ -17,7 +17,7 @@ from datetime import datetime
 
 def main(path: str) -> None:
     """
-    Based on the 100 Sales Records.csv, 
+    Based on the 100_Sales_Records.csv, 
     find out sale records with online sale channels, 
     and sort them by the order date
     """
@@ -32,4 +32,4 @@ def main(path: str) -> None:
 
 
 if __name__ == "__main__":
-    main('./100 Sales Records.csv')
+    main('./100_Sales_Records.csv')
