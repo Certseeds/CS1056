@@ -4,7 +4,7 @@
 ## @Author: nanoseeds
 ## @Date: 2020-09-26 11:23:32
 ## @LastEditors: nanoseeds
-## @LastEditTime: 2020-09-26 11:28:23
+## @LastEditTime: 2020-10-23 15:46:06
 ### 
 #
 .idea/*
@@ -151,3 +151,4 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+*.zip
