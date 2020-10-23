@@ -6,7 +6,7 @@ Organization: SUSTech
 Author: nanoseeds
 Date: 2020-09-25 14:09:49
 LastEditors: nanoseeds
-LastEditTime: 2020-09-26 11:23:05
+LastEditTime: 2020-10-23 11:35:13
 '''
 from typing import List
 import pandas as pd
@@ -35,4 +35,4 @@ def main(path: str) -> None:
 
 
 if __name__ == "__main__":
-    main('./100 Sales Records.csv')
+    main('./100_Sales_Records.csv')
