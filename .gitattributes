@@ -110,7 +110,7 @@
 *.pyo    binary
 
 # Jupyter notebook
-*.ipynb  text
+*.ipynb  text  linguist-vendored=true
 
 # Note: .db, .p, and .pkl files are associated
 # with the python modules ``pickle``, ``dbm.*``,
